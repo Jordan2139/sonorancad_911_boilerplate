@@ -12,6 +12,10 @@ To integrate the 911 call functionality into your project, follow these steps:
 4. Paste the copied code into your client Lua file.
 5. Customize the code as per your project requirements.
 
+## Integrations
+
+Within the [INTEGRATIONS] folder, there are pre-setup integrations that can be easily dragged and dropped into the respective scripts of your project.
+
 ## Contributing
 
 Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request.
@@ -19,3 +23,4 @@ Contributions are welcome! If you have any improvements or bug fixes, feel free 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
